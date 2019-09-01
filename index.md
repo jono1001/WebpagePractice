@@ -30,11 +30,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-https://raw.githubusercontent.com/jono1001/WebpagePractice/master/android.jpg
+![Mobile Phone](https://images.unsplash.com/photo-1480694313141-fce5e697ee25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"Mobile Phone")
 
 ![Mobile Phone](https://raw.githubusercontent.com/jono1001/WebpagePractice/master/android.jpg"Mobile Phone")
 
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
