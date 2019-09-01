@@ -28,11 +28,15 @@ Syntax highlighted code block
 5. San
 6. Shi
 
+[Google Search](https://www.google.com.au/)
+
 **Bold** and _Italic_ and `Code` text
 
 ![Mobile Phone](https://images.unsplash.com/photo-1480694313141-fce5e697ee25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"Mobile Phone")
 
 ![Mobile Phone](https://raw.githubusercontent.com/jono1001/WebpagePractice/master/android.jpg"Mobile Phone")
+
+![Robot](https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 "A Robot")
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
