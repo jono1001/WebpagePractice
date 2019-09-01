@@ -17,9 +17,16 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Here
+- There
+- Everywhere
 
 1. Numbered
 2. List
+3. Ichi
+4. Ni
+5. San
+6. Shi
 
 **Bold** and _Italic_ and `Code` text
 
